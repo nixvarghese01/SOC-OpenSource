@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [BlackPerl-DFIR/SOC-OpenSource](https://github.com/BlackPerl-DFIR/SOC-OpenSource) as a reference for **open-source SOC tooling**. Security operations reference that complements DevSecOps work.
+> All credit for the content goes to the original authors.
+
 ### TURN ON DARK MODE<p align="left"> <img src="images/Mode-changer.gif" width="150" height="70"> </p>
 ## PRESENTED BY <p align="center"> <img src="images/Logo-Transparent for Black BG.png" width="220" height="200"> </p>
 # 🔴SOC-OpenSource
